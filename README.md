@@ -1,14 +1,13 @@
-# Hi, I'm Tushar Vatsa 👋
+ Hi, I'm Tushar Vatsa 
 
-🚀 AI & Full Stack Developer  
-🎓 Computer Science Student  
-🔥 Passionate about ML, LLMs & Scalable Systems  
+ AI & Full Stack Developer  
+ Computer Science Student  
+ Passionate about ML, LLMs & Scalable Systems  
 
----
 
-## 🧠 Featured Project
+##  Featured Project
 
-### 🍽️ AI Recipe Recommendation System
+###  AI Recipe Recommendation System
 - Image-based ingredient detection (YOLO)
 - BLIP image captioning
 - Groq LLM integration
@@ -20,7 +19,7 @@
 
 ---
 
-## 🛠 Tech Stack
+##  Tech Stack
 - Python
 - Streamlit
 - PyTorch
@@ -31,6 +30,6 @@
 
 ---
 
-## 📫 Connect With Me
+## Connect With Me
 - LinkedIn: (https://www.linkedin.com/in/tushar9145/)
-- Portfolio: (we will add soon)
+- Portfolio: (I will add soon)
