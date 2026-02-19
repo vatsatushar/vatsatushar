@@ -1,9 +1,36 @@
-- 👋 Hi, I’m @vatsatushar 
-- 👀 I’m interested in frontend and backend developing
-- 🌱 I’m currently learning web technology
-- 💞️ I’m looking for collaboration.
+# Hi, I'm Tushar Vatsa 👋
 
-<!---
-vatsatushar/vatsatushar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🚀 AI & Full Stack Developer  
+🎓 Computer Science Student  
+🔥 Passionate about ML, LLMs & Scalable Systems  
+
+---
+
+## 🧠 Featured Project
+
+### 🍽️ AI Recipe Recommendation System
+- Image-based ingredient detection (YOLO)
+- BLIP image captioning
+- Groq LLM integration
+- Tavily web research agent
+- Deployed on Streamlit Cloud
+
+🔗 Live Demo: https://your-app-link.streamlit.app  
+🔗 GitHub Repo: https://github.com/vatsatushar/food_project
+
+---
+
+## 🛠 Tech Stack
+- Python
+- Streamlit
+- PyTorch
+- Transformers
+- Node.js
+- MongoDB
+- AngularJS
+
+---
+
+## 📫 Connect With Me
+- LinkedIn: (https://www.linkedin.com/in/tushar9145/)
+- Portfolio: (we will add soon)
