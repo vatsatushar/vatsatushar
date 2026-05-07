@@ -14,7 +14,7 @@
 - Tavily web research agent
 - Deployed on Streamlit Cloud
 
-🔗 Live Demo: https://your-app-link.streamlit.app  
+🔗 Live Demo: https://foodproject-tc8if7shvcb875odd6qljn.streamlit.app/  
 🔗 GitHub Repo: https://github.com/vatsatushar/food_project
 
 ---
